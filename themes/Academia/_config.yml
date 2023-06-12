@@ -3,7 +3,7 @@ favicon: /img/favicon.png
 avatar: /img/avatar.jpg
 # if author sets in hexo_config, this string doesn't work
 author: 'Jason'
-author_bio: 'Your biography can be writed down here.'
+author_bio: 'Student.'
 
 since: 2020
 
@@ -11,7 +11,7 @@ since: 2020
 # #title 为页内跳转，单页模式
 # 可以选择外链或其他页面
 menu:
-  Publications: /publications
+  FunFacts: /publications
 
 # flink picture will load if avator link calls on error
 loading_bg:
@@ -23,16 +23,16 @@ loading_bg:
 social:
   enable: true
 social_links:
-  fab fa-twitter: /
-  fab fa-facebook-square: /
-  fab fa-github: /
-  fab fa-stack-overflow: /
-  fab fa-linkedin: /
-  fab fa-weibo: /
-  fab fa-weixin: /
-  fab fa-qq: /
+  #fab fa-twitter: /
+  #fab fa-facebook-square: /
+  fab fa-github: / https://github.com/2016317200329
+  #fab fa-stack-overflow: /
+  #fab fa-linkedin: /
+  #fab fa-weibo: /
+  #fab fa-weixin: /
+  #fab fa-qq: /
   fas fa-envelope: / #E-mail
-  fas fa-rss: /  #rss
+  #fas fa-rss: /  #rss
 
 # Additional social_links，额外添加自定义链接，可显示链接名称
 # name: url || icon_name
@@ -40,13 +40,13 @@ e_social:
   enable: true
 e_social_links:
   Google Scholar: / || fas fa-graduation-cap
-  ORCID: / || fab fa-orcid
+  # ORCID: / || fab fa-orcid
 
 # CV download link
 cv_dl:
   enable: true
   dir: /attaches/CV.pdf
-  description: My Detail CV.
+  description: one-page CV (pdf).
 
 # Box-shadow
 # display box-shadow on page or not
