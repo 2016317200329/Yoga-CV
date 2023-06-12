@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: 2016317200329/academia-hexo-netlify-cms-vercel # Path to your Github/Gitlab repository
+  repo: 2016317200329/Yoga-CV # Path to your Github/Gitlab repository
   branch: main # Branch to update
   base_url: https://YujiaWang.Yoga.app
 
