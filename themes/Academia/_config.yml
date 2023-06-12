@@ -25,7 +25,7 @@ social:
 social_links:
   #fab fa-twitter: /
   #fab fa-facebook-square: /
-  # fab fa-github: "https://github.com/2016317200329"
+  fab fa-github: https://github.com/2016317200329
   #fab fa-stack-overflow: /
   #fab fa-linkedin: /
   #fab fa-weibo: /
@@ -39,7 +39,7 @@ social_links:
 e_social:
   enable: true
 e_social_links:
-  GitHub: https://github.com/2016317200329 || fab fa-github
+#   GitHub: https://github.com/2016317200329 || fab fa-github
   # ORCID: / || fab fa-orcid
 
 # CV download link
