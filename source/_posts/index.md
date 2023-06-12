@@ -3,7 +3,7 @@ title: Index
 academia: true
 ---
 
-# academia-hexo-netlify-cms-vercel
+# Yujia Wang / Yoga
 
 A template to deploy your Hexo **Academic Homepage** with Netlify-CMS on Vercel.
 
