@@ -38,7 +38,8 @@ social_links:
 e_social:
   enable: true
 e_social_links:
-  Google Scholar: / || fas fa-graduation-cap
+#   Google Scholar: / || fas fa-graduation-cap
+  Email: mailto:yoga.yjwang@gmail.com || fas fa-envelope
   GitHub: https://github.com/2016317200329 || fab fa-github
 
 # CV download link
