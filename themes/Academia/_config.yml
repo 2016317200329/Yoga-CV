@@ -1,6 +1,6 @@
 favicon: /img/favicon.png
 # Change to your profile picture
-avatar: /img/微信图片_20230612145513.jpg
+avatar: /img/pic1.jpg
 # if author sets in hexo_config, this string doesn't work
 author: 'Yoga'
 author_bio: 'yoga.yjwang@gmail.com'
@@ -11,11 +11,11 @@ since: 2022
 # #title 为页内跳转，单页模式
 # 可以选择外链或其他页面
 menu:
-  FunFacts: /publications
+  Others: /publications
 
 # flink picture will load if avator link calls on error
 loading_bg:
-  flink: /img/profile.png
+  flink: /img/pic1.jpg
 
 # Social Links; 社交链接，不需要的链接直接注释掉
 # 可以调整显示顺序
